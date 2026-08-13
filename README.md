@@ -58,4 +58,4 @@ This repository is maintained by [OfferGenie](https://offergenie.ai). Content is
 
 ---
 
-*Last updated: Aug 12, 2026
+*Last updated: Aug 13, 2026
